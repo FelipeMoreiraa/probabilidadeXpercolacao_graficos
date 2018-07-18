@@ -24,7 +24,8 @@ que os cálculos são realizados em cima de milhares de amostras. Temos tambem u
 dos gráficos, a partir dos dados gerados pelo programa principal.
 
 Compilação: gcc main.c -o main -lm
-Execução  : ./main
+
+Execução: ./main
 
 Execuçãopy: python3 graficos.py
 
